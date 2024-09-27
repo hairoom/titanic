@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import streamlit as  st
 
+plt.style.use('seaborn-v0_8')
 # show the title
 st.title('Titanic App by Hairong Zheng')
 
